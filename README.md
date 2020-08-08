@@ -38,5 +38,5 @@ I also added a custom command:
 
 This has been developped in an afternoon, and has been only tested on my Raspberry Pi 4. No issues so far, but big disclaimer nontheless: use at your own risk. 
 
-
+curl https://raw.githubusercontent.com/meuter/argon-one-case-ubuntu-20.04/master/argon1.sh |bash
 
